@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+networkx
+geopandas   # optional (if you want geographic plots)
+cartopy     # optional (for world maps, needs extra libs)
+
