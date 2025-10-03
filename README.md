@@ -1,6 +1,6 @@
 # ✈️ CSR Epidemic Spread via Air Travel 🌍  
 
-![Epidemic Simulation](figures/infections.gif)  
+![Epidemic Simulation](infection.gif)  
 
 What happens if an epidemic starts at one airport? How fast can it spread globally through flights?  
 This project models epidemic dynamics using **sparse matrix–vector multiplication in CSR (Compressed Sparse Row) format**, applied to the **OpenFlights airline network**.  
