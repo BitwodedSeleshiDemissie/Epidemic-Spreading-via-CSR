@@ -1,4 +1,5 @@
 # ✈️ CSR Epidemic Spread via Air Travel 🌍  
+
 ![Epidemic Simulation](figures/infections.gif)  
 
 What happens if an epidemic starts at one airport? How fast can it spread globally through flights?  
@@ -40,14 +41,11 @@ This project demonstrates:
 ## 🛠️ Installation  
 
 ```bash
-git clone https://github.com/<your-username>/csr-epidemic-spread.git
-cd csr-epidemic-spread
+git clone https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR.git
+cd Epidemic-Spreading-via-CSR
 
 python3 -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
-
-
-## This project also helps in the process of public policy planning to take into account how fast such a scenario could become a global concern within a short amount of time. 
